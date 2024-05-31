@@ -1,6 +1,6 @@
 # Lab8-Starter
 
-## [Click it](https://piaox.github.io/Lab8-Starter/)
+## [GitHub Page](https://piaox.github.io/Lab8-Starter/)
 ## [pwa.png](pwa.png)
 ### How are Graceful Degradation and Service Workers Related?
 
